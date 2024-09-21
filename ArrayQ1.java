@@ -1,4 +1,3 @@
-
 //find the second largest number from array
 //find the second smallest number from array
 import java.util.*;
